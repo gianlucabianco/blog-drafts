@@ -1,7 +1,7 @@
 # blog-drafts
 A list of ideas for new blog posts
 
-## scopo:
+## Scopo:
 Diffusione di articoli in italiano per aiutare nella diffusione di JS e della webDev, diminuendo le difficoltà di entrata che la barriera linguistica (all'inizio del proprio percorso) può creare
 
 # Argomenti

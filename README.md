@@ -20,6 +20,9 @@ Diffusione di articoli in italiano per aiutare nella diffusione di JS e della we
 
 ## Funzioni
 - Cos'è una funzione, com'è fatta e perchè è così importante nella programmazione
-- Argomenti, valori di ritorno, operazioni all'interno di una funzione
+- Parametri, Argomenti, valori di default, operazioni all'interno di una funzione, valori di ritorno
 - Funzioni integrate (MDN)
+- Definire una funzione, chiamare una funzione, function block/body, caveats
+- Perchè è importante impostare valori di default per i parametri e perchè sono importanti i controlli all'interno di una funzione
+- Come rendere una funzione più performante
 ...
